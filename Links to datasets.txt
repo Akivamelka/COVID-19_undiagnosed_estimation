@@ -1,0 +1,5 @@
+https://data.gov.il/dataset/covid-19/resource/d337959a-020a-4ed3-84f7-fca182292308
+
+https://www.kaggle.com/cvronao/covid19-philippine-dataset?select=Case_Information_20200515.csv
+
+https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv
