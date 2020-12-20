@@ -1,4 +1,4 @@
-# COVID-19_undiagnosed_estimation
+# undiagnosed_fraction_estimation
 Evaluation of the number of undiagnosed infected in an outbreak using source of infection measurements
 
 Akiva B. Melka and Yoram Louzoun
